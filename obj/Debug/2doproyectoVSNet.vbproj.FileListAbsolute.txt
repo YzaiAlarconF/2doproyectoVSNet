@@ -1,0 +1,11 @@
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\2doproyectoVSNet.vbproj.AssemblyReference.cache
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\_2doproyectoVSNet.Form1.resources
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\_2doproyectoVSNet.Resources.resources
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\2doproyectoVSNet.vbproj.GenerateResource.cache
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\2doproyectoVSNet.vbproj.CoreCompileInputs.cache
+D:\git\visualbasic\2doproyectoVSNet\bin\Debug\2doproyectoVSNet.exe
+D:\git\visualbasic\2doproyectoVSNet\bin\Debug\2doproyectoVSNet.pdb
+D:\git\visualbasic\2doproyectoVSNet\bin\Debug\2doproyectoVSNet.xml
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\2doproyectoVSNet.exe
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\2doproyectoVSNet.xml
+D:\git\visualbasic\2doproyectoVSNet\obj\Debug\2doproyectoVSNet.pdb
